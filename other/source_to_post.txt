@@ -1,0 +1,11 @@
+/* ЛИТЕРАТУРНЫЙ ИСТОЧНИК */
+
+[us_iconbox icon="book"][su_highlight background="#e14d43" color="#ffffff"]<span style="font-size: 10pt;">Литература:</span>
+<span style="font-size: 10pt;"> 1. Русский энциклопедический словарь, издаваемый профессором С.-Петербургскаго университета И. Н. Березиным. - Санкт-Петербург : тип. т-ва</span>[/su_highlight][/us_iconbox]
+
+--------------------------------------------------
+
+/* ИНТЕРНЕТ ИСТОЧНИК */
+
+[us_iconbox icon="link"][su_highlight background="#69a8bb" color="#ffffff"]<span style="font-size: 10pt;">Интернет-источники:</span>
+<span style="font-size: 10pt;"> 1. https://de.wikipedia.org/wiki/Christian_Leonhard_Leucht</span>[/su_highlight][/us_iconbox]

@@ -1,0 +1,2 @@
+rpm -e --nodeps "mariadb-server-5.5.56-2.el7.x86_64"
+rpm -qa | grep "php55w-mysql"

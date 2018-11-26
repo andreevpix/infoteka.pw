@@ -1,0 +1,2 @@
+nmap -P0
+netstat -anp | grep LISTEN | grep 222

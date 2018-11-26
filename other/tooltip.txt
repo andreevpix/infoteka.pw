@@ -1,0 +1,3 @@
+<span tooltip="Содержание">{number}</span>
+
+[su_tooltip style="bootstrap" position="north" title="РСДРП" content="Российская социал-демократическая рабочая партия" behavior="hover""]РСДРП[/su_tooltip]
