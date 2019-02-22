@@ -1,1 +1,2 @@
 sudo dd if=/dev/sde of=/dev/null bs=100M
+sync; dd if=/dev/zero of=/media/D8FE-0A09/2 bs=1M count=1024; sync
