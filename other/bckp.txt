@@ -1,2 +1,4 @@
-tar cvpzf /bckp/backup_01.tgz --exclude=/proc --exclude=/srv --exclude=/lost+found --exclude=/mnt --exclude=/bckp --exclude=/sys /
-tar cvpzf /bckp/site_01.tgz /srv
+tar czvf backup_01.tar.gz --exclude=/proc --exclude=/srv --exclude=/lost+found --exclude=/mnt --exclude=/bckp --exclude=/sys /
+
+tar czvf LEMP.tar.gz /etc
+tar czvf site_01.tar.gz /srv
