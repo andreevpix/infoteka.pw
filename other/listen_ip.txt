@@ -1,2 +1,4 @@
 nmap -P0
 netstat -anp | grep LISTEN | grep 222
+
+nmap -T4 -A -v 111.111.1.1
