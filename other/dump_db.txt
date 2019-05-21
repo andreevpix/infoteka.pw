@@ -1,1 +1,3 @@
 mysqldump -uroot -p name_db > database.sql
+
+mysqldump -u USER -p DATABASE | gzip > `date + outputfile.sql.%Y%m%d.%H%M%S.gz` 
